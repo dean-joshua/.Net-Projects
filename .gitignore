@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+MinimalApis/pizza-web/
+MinimalApis/minimal-api-work-with-databases/
+mslearn-persist-data-ef-core/
